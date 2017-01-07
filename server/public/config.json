@@ -1,0 +1,7 @@
+{
+  "useAI":1,
+  "FightTime":10000,
+  "waitTime":10000,
+  "maxPlayer":8,
+  "minPlayer":2
+}

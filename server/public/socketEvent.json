@@ -1,0 +1,9 @@
+{
+  "SocketEvent":{
+    "login" : 1,
+
+
+    "connected" : 1000,
+    "onlogin" : 1001
+  }
+}
